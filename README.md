@@ -6,7 +6,7 @@
     ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to Cloud9 IDE!
+test. Hi there! Welcome to Cloud9 IDE!
 
 To get you started, we included a small hello world application.
 
